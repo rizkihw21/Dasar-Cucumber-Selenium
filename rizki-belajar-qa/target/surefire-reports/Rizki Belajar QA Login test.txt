@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Rizki Belajar QA Login test
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.683 s - in Rizki Belajar QA Login test
